@@ -1,1 +1,1 @@
-# GameInHaskell
+Haskell pong and gloss test
